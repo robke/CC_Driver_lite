@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SRR6038")(type "KiCad")(uri "${KIPRJMOD}/libs/SRR6038/footprints.pretty/SRR6038.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/libs/SRR5028/KiCADv6/footprints.pretty")(options "")(descr ""))
+)
